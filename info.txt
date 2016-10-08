@@ -1,0 +1,16 @@
+number of boids = 20
+number of spheres = 80
+radius of spheres = 1.0
+boid repelling force = 1.0
+boid repelling radius = 1.0
+boid cohesion force = 1.0
+boid cohesion radius = 1.0
+boid merge force = 1.0
+boid merge radius = 1.0
+obstacle repelling force = 1.0
+area bounding force = 1.0
+bait ball mode = 0
+bait ball x = 0.0
+bait ball y = 0.0
+bait ball z = 0.0
+bait ball force = 1.0
